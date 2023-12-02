@@ -112,4 +112,4 @@ You can get more information about Aseprite license in the
 
 ---
 
-A simple edit
+Edit
